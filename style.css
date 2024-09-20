@@ -145,8 +145,8 @@ aside p{
     }
 
     nav ul li a {
-        padding: 0.5rem;
-
+        padding: 0.4rem;
+        font-size: large;
     }
 
     .footer {
